@@ -27,7 +27,7 @@ project/
 ├── app.py              # Single-file Streamlit dashboard
 ├── requirements.txt    # Python dependencies
 ├── README.md           # This file
-└── Data Export.csv     # AQI dataset (place here before running)
+└── AQI data.csv     # AQI dataset (place here before running)
 ```
 
 ---
