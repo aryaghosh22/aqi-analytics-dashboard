@@ -1,4 +1,4 @@
-# 🌿 India AQI Business Intelligence Dashboard
+# 🌿 AQI Analytics Dashboard
 
 A lightweight, single-file Business Intelligence dashboard built with **Streamlit** and **Pandas** to explore Air Quality Index (AQI) data across Indian states and cities.
 
@@ -34,7 +34,7 @@ project/
 
 ## 📦 Dataset
 
-Download the dataset from Kaggle and place it in the project root as **`Data Export.csv`**.
+Download the dataset from Kaggle and place it in the project root as **`AQI data.csv`**.
 
 > 🔗 **Dataset:** https://www.kaggle.com/datasets/yashdogra/aqi-india
 
@@ -61,7 +61,7 @@ Download the dataset from Kaggle and place it in the project root as **`Data Exp
 ### 1. Clone / download the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aryaghosh22/aqi-analytics-dashboard.git
 cd AQI Analytics Dashboard
 ```
 
@@ -110,3 +110,10 @@ The app will open automatically in your browser at `http://localhost:8501`.
 ## 📝 License
 
 This project is open-source and free to use for educational and personal purposes.
+
+--- 
+
+## 👤 Author
+
+Created by -- Arya Ghosh [@aryaghosh22]
+* **Email:** aryaghosh.azure@gmail.com
