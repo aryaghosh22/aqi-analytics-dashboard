@@ -62,7 +62,7 @@ Download the dataset from Kaggle and place it in the project root as **`Data Exp
 
 ```bash
 git clone <your-repo-url>
-cd <project-folder>
+cd AQI Analytics Dashboard
 ```
 
 ### 2. (Recommended) Create a virtual environment
